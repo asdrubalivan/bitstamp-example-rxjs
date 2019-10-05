@@ -8,7 +8,6 @@ interface BitcoinApiMsg {
     }
 }
 
-console.log(ws)
 const bitcoinAPI = webSocket({
     WebSocketCtor: ws,
     url: 'wss://ws.bitstamp.net'
