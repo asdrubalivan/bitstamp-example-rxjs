@@ -12,7 +12,7 @@
   "dependencies": {
     "@types/ws": "^6.0.3",
     "rxjs": "^6.5.3",
-    "ws": "^7.1.2"
+    "ws": "^7.4.6"
   },
   "devDependencies": {
     "@types/rx": "^4.1.1"
